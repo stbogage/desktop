@@ -1,1 +1,32 @@
 v14.15.4
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>送给女朋友的3D相册</title>
+
+<link type="text/css" href=”css/style.css"
+rel="stylesheet">
+
+</head>
+<body>
+
+<div class="box">
+                <ul class="minbox">
+                                 <li></li>
+                                 <li></li>
+                                 <li></li>
+                                 <li></li>
+                                 <li></li> 
+                                 <li></li>  
+               </ul>
+               <ol class="maxbox">
+                                 <li></li>
+                                 <li></li>
+                                 <li></li>         
+                                 <li></li> 
+                                 <li></li>  
+                                 <li></li>
+               </ol>
+</dic>
+</body>
+</html>
